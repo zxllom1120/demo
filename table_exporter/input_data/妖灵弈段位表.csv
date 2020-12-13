@@ -1,0 +1,17 @@
+妖灵弈段位表,,,,,,,,,,,,,,,,,,,
+是否导表,段位,小段位,是否为排名段位,升级需要星数,段位名称,段位图标,段位文字图片,段位达到奖励,段位赛季奖励,分段升星,失败是否降大段,失败是否降小段位,是否支持羁绊,是否支持装备,段位模式文字描述,对应副本,基础分,星级加分,段位节点文件名
+是/否,,,,,,,,达到该段位立即领取的奖励,赛季结束奖励,,,,1支持,1支持,,,"总分=基础分+星数*星级加分
+基础分为该段位0星的分数",,
+是,1,1,,3,守拙·一,big_icon_shouzhuo_1,yaolingyi_shouzhuo,721101,,"2,1,0,0",0,,1,1,,780011,1000,10,fx_yaolingyi_01_01
+是,1,2,,3,守拙·二,big_icon_shouzhuo_2,yaolingyi_shouzhuo,721101,,"2,1,0,0",0,,1,1,,780011,1030,10,fx_yaolingyi_01_02
+是,1,3,,3,守拙·三,big_icon_shouzhuo_3,yaolingyi_shouzhuo,721101,,"2,1,0,0",0,,1,1,,780011,1060,10,fx_yaolingyi_01_03
+是,2,1,,4,斗力·一,big_icon_douli_1,yaolingyi_douli,721102,,"2,1,0,0",0,,1,1,,780011,1090,10,fx_yaolingyi_02_01
+是,2,2,,4,斗力·二,big_icon_douli_2,yaolingyi_douli,721102,,"2,1,0,0",0,,1,1,,780011,1130,10,fx_yaolingyi_02_02
+是,2,3,,4,斗力·三,big_icon_douli_3,yaolingyi_douli,721102,,"2,1,0,0",0,,1,1,,780011,1170,10,fx_yaolingyi_02_03
+是,2,4,,4,斗力·四,big_icon_douli_4,yaolingyi_douli,721102,,"2,1,0,0",0,,1,1,,780011,1210,10,fx_yaolingyi_02_04
+是,3,1,,5,小巧·一,big_icon_xiaoqiao_1,yaolingyi_xiaoqiao,721103,,"2,1,0,-1",0,,1,1,,780011,1250,10,fx_yaolingyi_03_01
+是,3,2,,5,小巧·二,big_icon_xiaoqiao_2,yaolingyi_xiaoqiao,721103,,"2,1,0,-1",0,1,1,1,,780011,1300,10,fx_yaolingyi_03_02
+是,3,3,,5,小巧·三,big_icon_xiaoqiao_3,yaolingyi_xiaoqiao,721103,,"2,1,0,-1",0,1,1,1,,780011,1350,10,fx_yaolingyi_03_03
+是,3,4,,5,小巧·四,big_icon_xiaoqiao_4,yaolingyi_xiaoqiao,721103,,"2,1,0,-1",0,1,1,1,,780011,1400,10,fx_yaolingyi_03_04
+是,3,5,,5,小巧·五,big_icon_xiaoqiao_5,yaolingyi_xiaoqiao,721103,,"2,1,0,-1",0,1,1,1,,780011,1450,10,fx_yaolingyi_03_05
+是,4,0,1,,入神,big_icon_rushen,yaolingyi_rushen,721108,,"2,1,-1,-1",0,,1,1,,780011,1500,0,fx_yaolingyi_07_01
